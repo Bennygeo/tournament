@@ -1,0 +1,28 @@
+table {
+  width: 100%;
+}
+
+.logo{
+  margin-top:24px;
+  margin-bottom: 36px;
+}
+
+.boxData {
+  height: 234px;
+  background-color: antiquewhite;
+  margin: 3px;
+  margin-top:6px;
+  margin-bottom: 18px;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.tableCont {
+  background: transparent;
+  box-shadow: none;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.mat-header-cell{
+  background: none;
+  background-color: rgba(0, 0, 0, 0.1);
+}
